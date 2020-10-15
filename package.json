@@ -18,7 +18,8 @@
     "express": "^4.17.1",
     "jsdom": "^16.2.2",
     "mocha": "^7.1.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "zombie": "^6.1.4"
   },
   "license": "MIT"
 }
